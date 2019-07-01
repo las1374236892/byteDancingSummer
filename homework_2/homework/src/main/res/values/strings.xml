@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">homework_new</string>
+    <string name="exercise1">Exercise_1</string>
+    <string name="exercise2">Exercise_2</string>
+    <string name="exercise3">Exercise_3</string>
+    <string name="msg">消息</string>
+    <string name="fans">粉丝</string>
+    <string name="good">赞</string>
+    <string name="chat_me">\@我的</string>
+    <string name="comment">评论</string>
+    <string name="chat_room_title">我和%1$s的对话</string>
+</resources>
